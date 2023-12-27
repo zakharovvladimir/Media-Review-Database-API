@@ -1,4 +1,4 @@
-# Api Yamdb
+# Media Review Database API
 ### *Description*
 The project allows you to create multimedia content and leave reviews for it, as well as comment on the reviews.
 
