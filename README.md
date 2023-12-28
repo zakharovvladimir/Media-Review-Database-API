@@ -172,6 +172,9 @@ You can also change your account details.
 
 User authorization - teamlead Semenova Elizaveta([Github](https://github.com/SemenovaLiza))
 
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 Multimedia, genres and categories - Zakharov Vladimir([Github](https://github.com/zakharovvladimir))
 
 Comments and reviews - Vladimir Dolgih([Github](https://github.com/Waffe1n))
